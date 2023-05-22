@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title > Football legends</title>
+</head>
+<body>
+<h1 style="text-align:center";><b><i> FOOTBALL  LEGENDS</i></b> </h1>
+<p style="font-size: x-large">Football is one of the most popular sports in the world, and all countries participate in it to win championships and achieve
+     titles for their countries, and since the beginnings of playing football, the stadiums witnessed the birth of a large number
+      of football legends, and with time they became a landmark for their country and for many generations after them, and each player
+       was distinguished from them With capabilities and skills that made him an unforgettable player at all.</p><hr>
+       <h2 style="color:blue"><i><u>Ronaldo Lu?s Naz?rio de Lima</u></i></h2>
+       <div style="background-color: rgba(241, 241, 33, 0.836);"><p style="font-size: large">He is considered one of the best strikers in the world of football, and he played
+         within his football career in his Brazilian national team in addition to major international clubs such as Barcelona, ??Inter
+         and Real Madrid, and that was in the nineties of the twentieth century. He has multiple participations in the World Cup and won the Golden Ball Award and other titles within His football career, in addition
+         to achieving championships within the clubs he played for</p>
+         <img src="a1.jpg" alt="Ronaldo Lu?s" ></div>
+         <hr>
+      <h2 style="color:red"><u>Alfredo Di Stéfano</u></h2>
+      <div  style="background-color: burlywood;"> <p style="font-size: large">This Argentine player is considered one of the most famous players in the fifties 
+            of the twentieth century, and he played in the offensive midfield position, and Alfredo possessed the characteristics of a leader on the field, and he achieved with the 
+            clubs in which he participated many titles, including Real Madrid, with 5 European Cups, and despite 
+            the absence of However, he won the South American Championship with his national team in 1947</p>
+            <img src="a2.jpg" alt="Alfredo Di Stéfano"></div>
+            <hr>
+     <h2 style="color:green"><u>Ferenc Pusk?s</u></h2>
+     <div  style="background-color: darkkhaki;"><p style="font-size: large">The origins of Puskas go back to Hungary, and during his career he achieved a large number
+         of goals in the center of the striker, in the fifties of the twentieth century, and he also
+          gained his fame with his national team through his 
+        victory over England during that period, and he achieved with Real Madrid a large number titles in his football career.</p>
+        <img src="a3.jpg" alt="Ferenc Pusk?s"></div><hr>
+        <h2 style="color:rgb(218, 104, 11)"><u>Franz Beckenbauer</u></h2>
+        <div  style="background-color: rgb(241, 149, 149);"><p style="font-size: large">The German soccer player Beckenbauer appeared in the sixties of the twentieth century, he played in the center of
+             the defense, he achieved with his national
+             team the World Cup championship and participated in the German club Bayern Munich, and he achieved 3 European cups with him.</p>
+             <img src="a4.jpg" alt="Franz Beckenbauer"></div><hr>
+             <h2 style="color:rgb(160, 24, 214)"><u>Cristiano Ronaldo</u></h2>
+             <div  style="background-color:gray;"><p style="font-size: large">This Portuguese player plays in the center of the attacking wing, has a special reputation in the modern era, as his career began after the year 2000 AD, and he was distinguished from other players by his impulsive personality and great speed, and his name shone in a number of clubs,
+                including Real Madrid and Manchester United, and he achieved with his national team European Cup 2016</p>
+                <img src="a5.jpg" alt="Cristiano Ronaldo"></div>   
+
+</body>
+</html>
